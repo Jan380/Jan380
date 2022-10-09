@@ -24,7 +24,7 @@
 <a href="https://twitter.com/380_jan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="380_jan" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19060747" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19060747" height="30" width="40" /></a>
 <a href="https://instagram.com/380_jan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="380_jan" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/jan_380" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jan_380" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCeiedVcohYqVsL3TtKZMTfQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Jan_380" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -35,3 +35,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jan380&show_icons=true&locale=en" alt="jan380" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jan380&" alt="jan380" /></p>
+
