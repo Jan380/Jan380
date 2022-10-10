@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Java, Linux, Docker**
 
-- 📫 How to reach me **jan@jan380.de**
+- 📫 How to reach me **contact@jan380.de**
 
 - ⚡ Fun fact **I still go to school**
 
