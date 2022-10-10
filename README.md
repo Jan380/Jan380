@@ -34,4 +34,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jan380&show_icons=true&theme=tokyonight&title_color=5cc2f2&text_color=5cc2f2&bg_color=0d1117&locale=en" alt="jan380" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jan380&theme=dark" alt="jan380" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jan380&theme=dark&background=0d1117&sideNums=5cc2f2&currStreakLabel=5cc2f2&sideLabels=5cc2f2&dates=5cc2f2&fire=5cc2f2&ring=5cc2f2" alt="jan380" /></p>
