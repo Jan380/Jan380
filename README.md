@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jan380?tab=repositories](https://github.com/Jan380?tab=repositories)
 
-- 💬 Ask me about **Java,Docker,Networking,Linux**
+- 💬 Ask me about **Java, Docker, Networking, Linux**
 
 - 📫 How to reach me **contact@jan380.de**
 
